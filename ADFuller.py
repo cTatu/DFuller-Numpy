@@ -1,5 +1,5 @@
 #coding:utf-8
-"""Augmented Dickey-Fuller test implemented using Pytorch"""
+"""Augmented Dickey-Fuller test implemented using Numpy"""
 from statsmodels.tsa.adfvalues import mackinnonp, mackinnoncrit
 import numpy as np
 
